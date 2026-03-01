@@ -1,0 +1,112 @@
+{
+    "prompt": "Plan a 2-day intercollege startup and innovation summit called LaunchPad 2026 in Bangalore for 500 students featuring startup pitch competitions, mentor sessions, networking events, and keynote talks by founders.",
+    "event_date": "2026-03-25",
+    "event_data": {
+        "event_name": "LaunchPad 2026",
+        "event_type": "event",
+        "primary_category": "social",
+        "secondary_activities": [],
+        "location": "Bangalore for",
+        "venue_type": "outdoor",
+        "date": "2026-03-25",
+        "duration": "2-day",
+        "target_audience": "students",
+        "expected_attendees": 500,
+        "budget_range": null,
+        "key_highlights": [
+            "Community Gathering",
+            "Entertainment",
+            "Interactive Activities"
+        ],
+        "keywords": [
+            "pitch",
+            "startup",
+            "networking"
+        ],
+        "sponsors": [],
+        "tone": "exciting"
+    },
+    "result": {
+        "poster": [
+            "poster_variation_1.png",
+            "poster_variation_2.png",
+            "poster_variation_3.png",
+            "poster_variation_4.png"
+        ],
+        "social_posts": {
+            "instagram": "\ud83c\udf89 LaunchPad 2026 is coming!\n\n        \ud83d\udccd Bangalore for\n        \ud83d\udcc5 2026-03-25\n\n        \ud83d\udd25 Highlights: Community Gathering, Entertainment, Interactive Activities\n\n        Get ready for an unforgettable experience designed for students!\n\n        #Event #CampusLife #Festival #LiveEvents",
+            "linkedin": "We are excited to announce **LaunchPad 2026**!\n\n        \ud83d\udccd Location: Bangalore for\n        \ud83d\udcc5 Date: 2026-03-25\n\n        This event is designed for students and will feature:\n\n        Community Gathering, Entertainment, Interactive Activities\n\n        Stay tuned for more details and registration information.",
+            "twitter": "\ud83c\udf89 LaunchPad 2026 coming soon!\n\n        \ud83d\udccd Bangalore for\n        \ud83d\udcc5 2026-03-25\n\n        Highlights: Community Gathering, Entertainment, Interactive Activities\n\n        #Event #LiveEvents"
+        },
+        "timeline": {
+            "event_name": "LaunchPad 2026",
+            "days_remaining": 24,
+            "timeline": [
+                "Today: Planning begins for LaunchPad 2026",
+                "Event Date: 2026-03-25",
+                "T-12 days: Preparation and logistics planning",
+                "T-6 days: Preparation and logistics planning",
+                "T-2 days: Preparation and logistics planning",
+                "Event Day: Opening session",
+                "Event Day: Main activities",
+                "Event Day: Closing ceremony"
+            ]
+        },
+        "todo_list": {
+            "event_name": "LaunchPad 2026",
+            "todo_list": [
+                "Finalize event theme and objectives",
+                "Confirm venue booking in Bangalore for",
+                "Prepare event budget and resource allocation",
+                "Design promotional materials and posters",
+                "Launch social media marketing campaign",
+                "Open event registrations",
+                "Recruit volunteers and assign responsibilities",
+                "Arrange sound system, lighting, and equipment",
+                "Coordinate security and safety arrangements",
+                "Verify venue setup",
+                "Conduct final technical checks",
+                "Welcome participants and guests",
+                "Execute event schedule",
+                "Capture photos and videos for promotion",
+                "Collect feedback from participants"
+            ]
+        },
+        "website": {
+            "site_title": "LaunchPad 2026",
+            "sections": [
+                {
+                    "type": "hero",
+                    "title": "LaunchPad 2026",
+                    "subtitle": "Bangalore for \u2022 2026-03-25"
+                },
+                {
+                    "type": "about",
+                    "content": "LaunchPad 2026 is an exciting social event designed for students."
+                },
+                {
+                    "type": "highlights",
+                    "items": [
+                        "Community Gathering",
+                        "Entertainment",
+                        "Interactive Activities"
+                    ]
+                },
+                {
+                    "type": "timeline",
+                    "description": "Event schedule and activities will be displayed here."
+                },
+                {
+                    "type": "registration",
+                    "cta": "Register Now"
+                }
+            ]
+        }
+    },
+    "posters": [
+        "prompt_history/event_3/poster_1.png",
+        "prompt_history/event_3/poster_2.png",
+        "prompt_history/event_3/poster_3.png",
+        "prompt_history/event_3/poster_4.png"
+    ]
+}

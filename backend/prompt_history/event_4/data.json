@@ -1,0 +1,156 @@
+{
+    "prompt": "Organize a 2-day intercollege robotics competition called RoboRumble 2026 in Pune for 300 engineering students featuring robot battle arenas, autonomous bot challenges, innovation showcases, and expert tech talks.",
+    "event_date": "2026-03-28",
+    "event_data": {
+        "event_name": "RoboRumble 2026",
+        "event_type": "event",
+        "primary_category": "tech",
+        "secondary_activities": [],
+        "location": "Pune",
+        "venue_type": "outdoor",
+        "date": "2026-03-28",
+        "duration": "2-day",
+        "target_audience": "students",
+        "expected_attendees": 300,
+        "budget_range": null,
+        "key_highlights": [
+            "Coding Challenge",
+            "Startup Pitching",
+            "Mentor Sessions"
+        ],
+        "keywords": [
+            "tech"
+        ],
+        "sponsors": [],
+        "tone": "exciting"
+    },
+    "result": {
+        "poster": [
+            "poster_variation_1.png",
+            "poster_variation_2.png",
+            "poster_variation_3.png",
+            "poster_variation_4.png"
+        ],
+        "social_posts": {
+            "instagram": "\ud83d\udcbb RoboRumble 2026 is coming!\n\n        \ud83d\udccd Pune\n        \ud83d\udcc5 2026-03-28\n\n        \ud83d\udd25 Highlights: Coding Challenge, Startup Pitching, Mentor Sessions\n\n        Get ready for an unforgettable experience designed for students!\n\n        #Event #CampusLife #Festival #LiveEvents",
+            "linkedin": "We are excited to announce **RoboRumble 2026**!\n\n        \ud83d\udccd Location: Pune\n        \ud83d\udcc5 Date: 2026-03-28\n\n        This event is designed for students and will feature:\n\n        Coding Challenge, Startup Pitching, Mentor Sessions\n\n        Stay tuned for more details and registration information.",
+            "twitter": "\ud83d\udcbb RoboRumble 2026 coming soon!\n\n        \ud83d\udccd Pune\n        \ud83d\udcc5 2026-03-28\n\n        Highlights: Coding Challenge, Startup Pitching, Mentor Sessions\n\n        #Event #LiveEvents"
+        },
+        "timeline": {
+            "event_name": "RoboRumble 2026",
+            "days_remaining": 27,
+            "timeline": [
+                "Today: Planning begins for RoboRumble 2026",
+                "Event Date: 2026-03-28",
+                "T-13 days: Preparation and logistics planning",
+                "T-6 days: Preparation and logistics planning",
+                "T-2 days: Preparation and logistics planning",
+                "Event Day: Participant check-in",
+                "Event Day: Opening keynote",
+                "Event Day: Hacking session begins",
+                "Event Day: Project submissions and judging",
+                "Event Day: Awards ceremony"
+            ]
+        },
+        "todo_list": {
+            "event_name": "RoboRumble 2026",
+            "todo_list": [
+                "Finalize event theme and objectives",
+                "Confirm venue booking in Pune",
+                "Prepare event budget and resource allocation",
+                "Design promotional materials and posters",
+                "Launch social media marketing campaign",
+                "Open event registrations",
+                "Recruit volunteers and assign responsibilities",
+                "Arrange sound system, lighting, and equipment",
+                "Coordinate security and safety arrangements",
+                "Prepare hackathon problem statements",
+                "Invite mentors and judges",
+                "Set up WiFi and coding environment",
+                "Prepare evaluation criteria",
+                "Verify venue setup",
+                "Conduct final technical checks",
+                "Welcome participants and guests",
+                "Execute event schedule",
+                "Capture photos and videos for promotion",
+                "Collect feedback from participants"
+            ]
+        },
+        "form": {
+            "form_title": "RoboRumble 2026 Registration",
+            "fields": [
+                {
+                    "name": "full_name",
+                    "label": "Full Name",
+                    "type": "text"
+                },
+                {
+                    "name": "email",
+                    "label": "Email",
+                    "type": "email"
+                },
+                {
+                    "name": "phone",
+                    "label": "Phone Number",
+                    "type": "text"
+                },
+                {
+                    "name": "organization",
+                    "label": "College / Organization",
+                    "type": "text"
+                },
+                {
+                    "name": "team_name",
+                    "label": "Team Name",
+                    "type": "text"
+                },
+                {
+                    "name": "team_size",
+                    "label": "Team Size",
+                    "type": "number"
+                },
+                {
+                    "name": "languages",
+                    "label": "Programming Languages",
+                    "type": "text"
+                }
+            ]
+        },
+        "website": {
+            "site_title": "RoboRumble 2026",
+            "sections": [
+                {
+                    "type": "hero",
+                    "title": "RoboRumble 2026",
+                    "subtitle": "Pune \u2022 2026-03-28"
+                },
+                {
+                    "type": "about",
+                    "content": "RoboRumble 2026 is an exciting tech event designed for students."
+                },
+                {
+                    "type": "highlights",
+                    "items": [
+                        "Coding Challenge",
+                        "Startup Pitching",
+                        "Mentor Sessions"
+                    ]
+                },
+                {
+                    "type": "timeline",
+                    "description": "Event schedule and activities will be displayed here."
+                },
+                {
+                    "type": "registration",
+                    "cta": "Register Now"
+                }
+            ]
+        }
+    },
+    "posters": [
+        "prompt_history/event_4/poster_1.png",
+        "prompt_history/event_4/poster_2.png",
+        "prompt_history/event_4/poster_3.png",
+        "prompt_history/event_4/poster_4.png"
+    ]
+}
